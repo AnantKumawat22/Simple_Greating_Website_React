@@ -24,6 +24,8 @@ h1{
   border-radius: 10px;
 }
 
-span{
-
+@media(max-width:465px){
+  h1{
+    font-size: 25px;
+  }
 }
